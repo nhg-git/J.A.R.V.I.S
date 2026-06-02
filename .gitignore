@@ -1,0 +1,17 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Database & logs
+data/
+*.db
+*.log
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Models / cache
+models/
